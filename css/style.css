@@ -14603,7 +14603,7 @@ img.lazy-image.loaded {
 
 .pricing-card__list {
   text-align: left;
-  width: 200px;
+  width: 85%;
   margin-left: auto;
   margin-right: auto;
   margin-bottom: 43px;
@@ -23897,4 +23897,3 @@ img.lazy-image.loaded {
   -webkit-animation-duration: 1500ms;
           animation-duration: 1500ms;
 }
-/*# sourceMappingURL=style.css.map */
